@@ -1,6 +1,6 @@
 # Surf's Up June and December Weather Analysis
 
-#Overview
+Overview
 Our client would like to know if it would be profitable to open their surf shop year-round based on historical weather data from June and December. 
 
 Results:
